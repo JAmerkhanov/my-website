@@ -6,3 +6,5 @@ deleted two lines
 changing text in the marge tool
 someone else made a change
 adding something for tags
+
+GETTING STARTED
